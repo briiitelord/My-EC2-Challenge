@@ -1,0 +1,9 @@
+This is a sample text edited from the terminal. 
+This shows that I can use linux commands. 
+All is well. I am meant to prosper...aggressively. 
+Amen. 
+∂d∂∂∂d cat close
+cat stop
+stop
+stop cat
+end cat
